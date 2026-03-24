@@ -229,8 +229,6 @@ http://192.168.2.3:8586/udp/239.77.0.160:5146
 http://192.168.2.3:8586/udp/239.77.1.249:5146
 #EXTINF:-1 tvg-name="上海纪实高清" tvg-logo="https://live.fanmingming.com/tv/上海纪实高清.png",上海纪实高清
 http://192.168.2.3:8586/udp/239.77.0.147:5146
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png",CHC影迷电影
-http://192.168.2.3:8586/udp/239.77.0.27:5146
 #EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png",茶
 http://192.168.2.3:8586/udp/239.77.0.15:5146
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png",快乐垂钓
